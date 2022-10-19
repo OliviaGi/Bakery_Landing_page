@@ -26,6 +26,7 @@ p {
 #socialtag {
 	font-family: "Zilla Slab", serif;
 }
+#row-1 .btn,
 #row-2 .btn {
 	font-family: "Zilla Slab", serif;
 	background-color: rgba(130, 211, 52, 0.6);
