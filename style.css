@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.parallax {
+	background-image: url("https://images.unsplash.com/photo-1490367605959-06955305859b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+	min-height: 500px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	backdrop-filter: blur(1px);
+}
+h1,
+h2,
+h3,
+h4 {
+	font-family: "Pacifico", cursive;
+}
+p {
+	font-family: "Zilla Slab", serif;
+}
+#row-1 {
+	background-color: rgba(227, 108, 169, 0.6);
+}
+#socialtag {
+	font-family: "Zilla Slab", serif;
+}
+#row-2 .btn {
+	font-family: "Zilla Slab", serif;
+	background-color: rgba(130, 211, 52, 0.6);
+	border: 2px solid rgba(241, 252, 137, 0.8);
+}
+#row-3 {
+	background-color: rgba(199, 168, 103, 0.8);
+}
